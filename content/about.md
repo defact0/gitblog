@@ -6,7 +6,7 @@ aliases = ["about-us","contact"]
 author = "defact0"
 +++
 
-![bio-photo](/about/bio-photo.png)
+![bio-photo](/img/about/bio-photo.png)
 
 국내 IT보안회사에서 5년 이상 된 직딩이다.  
 보안,개발,운영 등등 이것저것 관심이 많다.
