@@ -7,7 +7,7 @@ hasCJKLanguage: true
 paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
-googleAnalytics: ""      # UA-XXXXXXXX-X 
+googleAnalytics: "UA-162156549-1"      # UA-XXXXXXXX-X 
 permalinks:
   posts: /:year/:month/:filename/
 
@@ -118,7 +118,7 @@ params:
       url: favicon.ico
     title: defact0 # 页面title
     favicon: favicon.ico
-    board: <p>Blog 초창기라 볼만한 건 별로 없습니다만, 여러 컨텐츠를 만들어 찾아 뵙겠습니다. ^^</p> # 公告牌
+    board: <p>재택근무 종료 ㅠ</p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin

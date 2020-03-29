@@ -1,14 +1,9 @@
 # Gitblog
 
-Hugo 이용해 만든 블로그 입니다.
-
-https://defact0.github.io/
-
->Hugo 는 Go로 작성된 정적 사이트 생성기이다. 2013년 Steve Francia에 의해 처음 개발된 휴고는 현재의 수석 개발자 Bjørn Erik Pedersen의 도움을 받아 기능, 성능 면에서 큰 향상을 이루었다
-
-
-
-
+Hugo 이용해 만든 블로그 입니다.  
+https://defact0.github.io/  
+>Hugo 는 Go로 작성된 정적 사이트 생성기이다.  
+2013년 Steve Francia에 의해 처음 개발된 휴고는 현재의 수석 개발자 Bjørn Erik Pedersen의 도움을 받아 기능, 성능 면에서 큰 향상을 이루었다.
 
 # 관리하기
 ## 1. hugo 소스 push
