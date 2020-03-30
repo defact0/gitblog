@@ -118,7 +118,7 @@ params:
       url: favicon.ico
     title: defact0 # 页面title
     favicon: favicon.ico
-    board: <p>재택근무 종료 ㅠ</p> # 公告牌
+    board: <p>블로그 내용과 기능을 개선하고 있습니다.</p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin

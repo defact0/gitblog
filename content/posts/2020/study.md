@@ -1,10 +1,10 @@
 +++
 author = "defact0"
-title = "데이터베이스 공부메모"
+title = "공부 정리 - 데이터베이스"
 date = "2020-03-29"
 description = "Self Study"
 tags = [
-    "database",
+    "study",
 ]
 categories = [
     "study",
@@ -14,7 +14,7 @@ categories = [
 자체적으로 공부하면서 메모 해본 데이터베이스 이론
 
 <!--more-->
-# 데이터베이스
+
 ## 01. 데이터베이스 관리 시스템
 > DBMS, Data Base Management System
 

@@ -4,11 +4,10 @@ title = "Gitbook을 만들어 보자"
 date = "2019-08-05"
 description = "How to make Gitbook"
 tags = [
-    "gitbook",
-    "markdown",
+    "git",
 ]
 categories = [
-    "git",
+    "dev",
 ]
 +++
 GitBook은 git과 markdown이 결합된 `문서버전관리` 도구입니다.  

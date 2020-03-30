@@ -4,7 +4,8 @@ title = "Apache(httpd) 설치와 설정"
 date = "2019-12-10"
 description = "How to use Apache(httpd)"
 tags = [
-    "apapche",
+    "ws",
+    "web",
 ]
 categories = [
     "WEB",

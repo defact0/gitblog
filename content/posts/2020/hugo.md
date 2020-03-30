@@ -4,11 +4,10 @@ title = "Hugo를 이용하여 Gitblog 만들기"
 date = "2020-03-25"
 description = "How to make Gitblog"
 tags = [
-    "hugo",
-    "gitblog",
+    "git",
 ]
 categories = [
-    "git",
+    "dev",
 ]
 +++
 

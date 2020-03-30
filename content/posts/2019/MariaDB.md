@@ -5,7 +5,6 @@ date = "2019-12-06"
 description = "How to use MariaDB"
 tags = [
     "database",
-    "mariadb",
 ]
 categories = [
     "DB",

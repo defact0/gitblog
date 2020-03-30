@@ -5,10 +5,9 @@ date = "2020-02-13"
 description = "How to use nsis"
 tags = [
     "script",
-    "nsis",
 ]
 categories = [
-    "script",
+    "dev",
 ]
 +++
 
