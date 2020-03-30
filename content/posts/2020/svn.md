@@ -1,7 +1,7 @@
 +++
 author = "defact0"
 title = "CentOS7에 SVN 구축하기"
-date = "2020-03-25"
+date = "2020-03-01"
 description = "How to make Gitblog"
 tags = [
     "linux",
